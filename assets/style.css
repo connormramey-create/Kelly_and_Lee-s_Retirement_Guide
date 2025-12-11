@@ -1,13 +1,112 @@
+/* General */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Inter', sans-serif;
   margin: 0;
-  padding: 2rem;
-  background: #fafafa;
+  background: #f9f9f9;
+  color: #1a1a1a;
+  line-height: 1.5;
 }
 
-header, footer {
-  background: #eee;
+a {
+  text-decoration: none;
+  color: #c0392b;
+}
+
+/* Container */
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+/* Header */
+.site-header {
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  display: inline-block;
+  font-weight: 700;
+  color: #c0392b;
+  margin: 0;
+}
+
+.main-nav {
+  float: right;
+  margin-top: 0.5rem;
+}
+
+.main-nav a {
+  margin-left: 1rem;
+  font-weight: 600;
+}
+
+/* Hero Section */
+.hero {
+  background: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+  color: #fff;
+  padding: 6rem 1.5rem;
+  text-align: center;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+}
+
+/* Card Grid */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.1);
+}
+
+.card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.card-body {
   padding: 1rem;
-  border-radius: 8px;
-  margin-bottom: 2rem;
+}
+
+.card-body h4 {
+  margin: 0 0 0.5rem 0;
+}
+
+.card-body p {
+  margin: 0;
+  color: #555;
+}
+
+/* Footer */
+.site-footer {
+  background: #fff;
+  padding: 1.5rem 0;
+  text-align: center;
+  color: #777;
+  margin-top: 3rem;
 }
