@@ -5,17 +5,30 @@ title: Home
 
 ## Destinations
 
-### 🏝️ Beaches
-- Clearwater Beach
-- Hilton Head
-- Maui
+<div class="cards-grid">
 
-### 🏔️ Mountains
-- Asheville
-- Banff
-- Lake Tahoe
+<div class="card">
+<img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=400&q=60" alt="Beach">
+<div class="card-body">
+<h4>Clearwater Beach</h4>
+<p>Relax on sunny beaches with turquoise water.</p>
+</div>
+</div>
 
-### 🏙️ Cities
-- New York
-- Chicago
-- Seattle
+<div class="card">
+<img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=400&q=60" alt="Mountains">
+<div class="card-body">
+<h4>Asheville Mountains</h4>
+<p>Hike scenic trails and enjoy fresh mountain air.</p>
+</div>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1549692520-acc6669e2f0c?auto=format&fit=crop&w=400&q=60" alt="City">
+<div class="card-body">
+<h4>New York City</h4>
+<p>Explore iconic landmarks, museums, and food spots.</p>
+</div>
+</div>
+
+</div>
