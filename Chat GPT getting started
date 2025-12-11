@@ -1,0 +1,9 @@
+# inside travel-guide/ folder
+git init
+git add .
+git commit -m "Initial commit: travel guide website"
+# create a GitHub repo named travel-guide, then:
+git remote add origin git@github.com:YOURUSERNAME/travel-guide.git
+git branch -M main
+git push -u origin main
+
