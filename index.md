@@ -7,6 +7,7 @@ title: Home
 
 <div class="cards-grid">
 
+<a href="{{ '/Portugal/' | relative_url }}" class="card-link">
 <div class="card">
 <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=400&q=60" alt="Beach">
 <div class="card-body">
@@ -14,6 +15,7 @@ title: Home
 <p>Relax on sunny beaches with turquoise water.</p>
 </div>
 </div>
+<a/>
 
 <div class="card">
 <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=400&q=60" alt="Mountains">
