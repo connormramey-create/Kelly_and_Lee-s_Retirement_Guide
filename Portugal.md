@@ -3,3 +3,5 @@ layout: default
 title: Portugal
 ---
 
+<h4>Portugal</h4>
+<p>It is said that the best season to visit protugal is in the Spring to avoid the worst of the heat so booking an airbnb during this time for a month around May is a great time to visit especially since you'd be there in time for the Madeira Flower festival and maybe even the Obidos International Chocolate festival!</p>
