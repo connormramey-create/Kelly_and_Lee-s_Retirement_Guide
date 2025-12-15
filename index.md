@@ -11,7 +11,7 @@ title: Home
 <div class="card">
 <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=400&q=60" alt="Beach">
 <div class="card-body">
-<h4>Clearwater Beach</h4>
+<h4>Portugal</h4>
 <p>Relax on sunny beaches with turquoise water.</p>
 </div>
 </div>
