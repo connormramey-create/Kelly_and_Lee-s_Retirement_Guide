@@ -29,7 +29,7 @@ title: Home
 
 <a href="{{ '/greece.html' | relative_url }}" class="card-link">
 <div class="card">
-<img src="[https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&w=400&q=60]" alt="Greece">
+<img src="https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Greece">
 <div class="card-body">
 <h4>Greece</h4>
 <p>Ancient Cities, timeless stories, memories that last a lifetime.</p>
