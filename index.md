@@ -18,6 +18,7 @@ title: Home
     </div>
   </a>
 
+<a href="{{ '/switzerland/' | relative_url }}" /a>
 <div class="card">
 <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=400&q=60" alt="Mountains">
 <div class="card-body">
