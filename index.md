@@ -7,7 +7,6 @@ title: Home
 
 <div class="cards-grid">
 
-  <!-- portugal -->
   <a href="{{ '/portugal/' | relative_url }}" class="card-link">
     <div class="card">
       <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=400&q=60" alt="portugal">
